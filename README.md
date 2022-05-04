@@ -9,7 +9,7 @@ Goals
 
 Exampla Output
 
-![image](https://user-images.githubusercontent.com/97081479/166622863-0c210334-6530-48ee-8dc7-4018f01c407c.png)
+![image](https://user-images.githubusercontent.com/97081479/166622975-4f778c29-74ce-470b-9c00-a550007850d7.png)
 
 ![image](https://user-images.githubusercontent.com/97081479/166622886-03d1ee4f-3be0-42ee-a293-b77e65fd2260.png)
 
